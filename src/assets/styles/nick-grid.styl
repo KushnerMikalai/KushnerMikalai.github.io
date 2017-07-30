@@ -1,0 +1,56 @@
+.box {
+  max-width: 1170px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  padding: 0 14px;
+  box-sizing: border-box;
+}
+
+.box__fluid {
+  max-width: 100%
+}
+
+.box:after, .box:before, .box__row:before, .box__row:after {
+  content: '';
+  width: 100%;
+  display: table;
+  clear: both;
+}
+
+.box__row {
+  margin-left: -7px;
+  margin-right: -7px;
+}
+
+.col__md_12, .col__md_11, .col__md_10, .col__md_9, .col__md_8, .col__md_7, .col__md_6, .col__md_5, .col__md_4, .col__md_3, .col__md_2, .col__md_1,
+.col__sm_12, .col__sm_11, .col__sm_10, .col__sm_9, .col__sm_8, .col__sm_7, .col__sm_6, .col__sm_5, .col__sm_4, .col__sm_3, .col__sm_2, .col__sm_1,
+.col__xs_12, .col__xs_11, .col__xs_10, .col__xs_9, .col__xs_8, .col__xs_7, .col__xs_6, .col__xs_5, .col__xs_4, .col__xs_3, .col__xs_2, .col__xs_1 {
+  float: left;
+  padding: 0 7px;
+  position: relative;
+}
+
+.col__md_12 {
+  width: 100%;
+}
+
+.col__md_4 {
+  width 33.3%
+}
+
+.col__md_6 {
+  width: 50%;
+}
+
+.col__empty {
+  padding: 0 7px;
+  position: relative;
+  float: left;
+}
+
+@media screen and (max-width: 768px)
+  .col
+    &__xs
+      &_6
+        width 50%

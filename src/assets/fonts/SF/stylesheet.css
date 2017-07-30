@@ -1,0 +1,106 @@
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-bold-webfont.woff2') format('woff2'),
+  url('sf-ui-text-bold-webfont.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-bolditalic-webfont.woff2') format('woff2'),
+  url('sf-ui-text-bolditalic-webfont.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-heavy-webfont.woff2') format('woff2'),
+  url('sf-ui-text-heavy-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-heavyitalic-webfont.woff2') format('woff2'),
+  url('sf-ui-text-heavyitalic-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-light-webfont.woff2') format('woff2'),
+  url('sf-ui-text-light-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-lightitalic-webfont.woff2') format('woff2'),
+  url('sf-ui-text-lightitalic-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-medium-webfont.woff2') format('woff2'),
+  url('sf-ui-text-medium-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-mediumitalic-webfont.woff2') format('woff2'),
+  url('sf-ui-text-mediumitalic-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-regular-webfont.woff2') format('woff2'),
+  url('sf-ui-text-regular-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-italic-webfont.woff2') format('woff2'),
+  url('sf-ui-text-italic-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-semibold-webfont.woff2') format('woff2'),
+  url('sf-ui-text-semibold-webfont.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('sf-ui-text-semibolditalic-webfont.woff2') format('woff2'),
+  url('sf-ui-text-semibolditalic-webfont.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+}
