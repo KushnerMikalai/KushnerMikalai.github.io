@@ -464,8 +464,8 @@ h1 {
   color: #fff;
   font-size: 24px;
   font-weight: 300;
-  -webkit-box-shadow: 0 2px 20px 8px #d0d0d0;
-          box-shadow: 0 2px 20px 8px #d0d0d0;
+  -webkit-box-shadow: 0 2px 20px 8px #e0e0e0;
+          box-shadow: 0 2px 20px 8px #e0e0e0;
 }
 .page-link-content a:hover,
 .page-link-content a:focus {
